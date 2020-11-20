@@ -1,0 +1,2 @@
+# WitchyZooBrew
+A Mastodon Bot
